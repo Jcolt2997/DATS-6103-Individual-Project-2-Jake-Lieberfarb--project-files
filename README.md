@@ -10,6 +10,6 @@ on your own environment. In the zip file you find the jupyter notebook code, htm
 
 Other links:
 
-zenodo: [Jake's Zenodo](https://zenodo.org/record/4265587)
+Zenodo: [Jake's Zenodo](https://zenodo.org/record/4265587)
 
-Github.io: [Jake's Github.io)(https://jcolt2997.github.io/DATS-6103-Individual-Project-2-Jake-Lieberfarb/)
+Github.io: [Jake's Github.io](https://jcolt2997.github.io/DATS-6103-Individual-Project-2-Jake-Lieberfarb/)
